@@ -1,5 +1,5 @@
 # llvm-pass-template
-Since the method given in documentation need to put your own pass in the directory `llvm-project/llvm/lib/Transforms` ,which is inconvenient for use.
+Since the [method](https://llvm.org/docs/WritingAnLLVMPass.html#quick-start-writing-hello-world) given in documentation need to put your own pass in the directory `llvm-project/llvm/lib/Transforms` ,which is inconvenient for use.
 
 In this repository, we provide with a complete LLVM pass template, which enables building a pass independently. 
 
